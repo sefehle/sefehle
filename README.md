@@ -1,4 +1,7 @@
-- 👋 Hi, I’m Mbali Sefehle 
+- 👋 Hi, I’m Mbali Sefehle
+- DUT alumni..👩‍🎓👩‍🎓
+- ICT Graduate
+- 2x Salesforce certified
 - 👀 I’m interested in Informatics, Technology and innovation 
 - 🌱 I’m currently learning (programming languages :Javascript, c#, python, Sql)
 - 💞️ I’m looking to collaborate on projects that combines technology and social impact
